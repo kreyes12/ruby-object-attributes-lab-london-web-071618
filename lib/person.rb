@@ -12,3 +12,4 @@ beyonce = Person.new
 beyonce.name
 
 end
+
