@@ -2,11 +2,11 @@ class Dog
 
 
   def name=(fido)
-    @this_dogs_name = "Fido"
+    @name = "Fido"
   end
  
   def name
-    @this_dogs_name
+    @name
   end
 
   def breed=(beagle)
