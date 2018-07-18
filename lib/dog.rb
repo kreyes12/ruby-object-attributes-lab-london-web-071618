@@ -18,6 +18,7 @@ fido.name
   
   def breed
     @breed
+  end
   
 snoopy = Dog.new
 snoopy.breed
