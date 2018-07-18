@@ -10,7 +10,7 @@ class Dog
   end
 
   def breed=(beagle)
-    @this_dogs_breed = "Beagle"
+    @breed = "Beagle"
   end
 
 fido = Dog.new
