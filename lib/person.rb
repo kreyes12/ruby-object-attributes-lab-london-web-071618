@@ -18,6 +18,7 @@ class Person
   
 beyonce = Person.new
 beyonce.name
+beyonce.job
 
 end
 
