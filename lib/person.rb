@@ -8,7 +8,7 @@ class Person
     @name
   end
   
-  beyonce = Person.new
-  beyonce.name
+beyonce = Person.new
+beyonce.name
 
 end
